@@ -1,0 +1,2 @@
+# Physics-Guided-Machine-Learning-for-Accurate-GSM-Prediction-in-Single-Jersey-Knit-Fabric
+Physics-guided machine learning framework for predicting fabric GSM in Single Jersey knit fabrics. Evaluates 22 regression models with feature engineering (tightness factor), hyperparameter tuning, and explainable AI (SHAP, LIME). Extra Trees achieved best performance with RMSE ≈ 4.1 and R² ≈ 0.95 for accurate textile manufacturing prediction.
